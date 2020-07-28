@@ -4,9 +4,9 @@ function jigsawMain() {
     s += '<div style="margin:auto; display:block;">';
     s += '<div id="hdr" style="position:absolute; display:block; width:100px; height: 40px; z-index:100;">';
     s += '<button id="newBtn" style="width:120px; font-size: 18px; z-index:44;" class="togglebtn"  onclick="histPop()" >New</button>';
-		s += '<button id="imageBtn1" style="width:120px; font-size: 14px; z-index:44;" class="togglebtn hi"  onclick="load1()" >Image 1</button>';
-	s += '<button id="imageBtn2" style="width:120px; font-size: 14px; z-index:44;" class="togglebtn hi"  onclick="load2()" >Image 2</button>';
-		s += '<button id="imageBtn3" style="width:120px; font-size: 14px; z-index:44;" class="togglebtn hi"  onclick="load3()" >Image 3</button>';
+		s += '<button id="imageBtn1" style="width:120px; font-size: 14px; z-index:44;" class="togglebtn hi"  onclick="load1()" >Vincent</button>';
+	s += '<button id="imageBtn2" style="width:120px; font-size: 14px; z-index:44;" class="togglebtn hi"  onclick="load2()" >Phoukuo</button>';
+		s += '<button id="imageBtn3" style="width:120px; font-size: 14px; z-index:44;" class="togglebtn hi"  onclick="load3()" >Nina</button>';
     s += '<button id="imageBtn" style="width:120px; font-size: 14px; z-index:44;" class="togglebtn hi"  onclick="toggleImg()" >Image Toggle</button>';
 	s += getPopHTML();
     s += '</div>';
