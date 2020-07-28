@@ -1,7 +1,5 @@
 function jigsawMain() {
     this.version = '0.1';
-    w = 600;
-    h = 600;
     s = "";
     s += '<div style="margin:auto; display:block;">';
     s += '<div id="hdr" style="position:absolute; display:block; width:100px; height: 40px; z-index:100;">';
@@ -20,8 +18,8 @@ function jigsawMain() {
     document.write(s);
     el = document.getElementById('canvasId');
     el.style.border = "1px solid #888";
-    el.width = 1000;
-    el.height = 1000;
+    el.width = 1600;
+    el.height = 1920;
     g = el.getContext("2d");
     jig = document.getElementById('jig');
     var imgName = getQueryVariable('img');
