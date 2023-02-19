@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>G Kromi</title>
-    <link href="https://gkromi.github.io/gkromi.github.io/feed.xml" rel="self" />
-    <link href="https://gkromi.github.io/gkromi.github.io" />
+    <link href="https://gkromi.github.io/feed.xml" rel="self" />
+    <link href="https://gkromi.github.io" />
     <updated>2023-02-19T21:15:43+05:30</updated>
     <author>
         <name>Kromi</name>
     </author>
-    <id>https://gkromi.github.io/gkromi.github.io</id>
+    <id>https://gkromi.github.io</id>
 
     <entry>
         <title>Log 000001</title>
         <author>
             <name>Kromi</name>
         </author>
-        <link href="https://gkromi.github.io/gkromi.github.io/log-000001/"/>
-        <id>https://gkromi.github.io/gkromi.github.io/log-000001/</id>
+        <link href="https://gkromi.github.io/log-000001/"/>
+        <id>https://gkromi.github.io/log-000001/</id>
 
         <updated>2023-02-19T21:15:43+05:30</updated>
             <summary>
